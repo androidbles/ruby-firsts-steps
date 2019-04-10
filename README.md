@@ -1,1 +1,1 @@
-# My first steps in Ruby language
+# My firsts steps in Ruby language
